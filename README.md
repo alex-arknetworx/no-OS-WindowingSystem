@@ -12,7 +12,8 @@ Source code coming soon.
 
 ![no-OS-WindowingSystem_image2](https://github.com/user-attachments/assets/53c38340-0081-40ac-bb14-6000db3988e3)
 
-Running demonstration9s) as a GIF movies below [8 Mb GIF image may take a few moments to load]
+Running demonstration(s) as GIF movies below [8 Mb GIF image may take a few moments to load]
+
 
 ![no-OS-WindowingSystem_movieLo](https://github.com/user-attachments/assets/649de3c7-8072-4df8-9221-7efd9e4715fc)
 
